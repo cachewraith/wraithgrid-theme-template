@@ -1,0 +1,34 @@
+{
+  "name": "Ember",
+  "mode": "dark",
+  "author": "cachewraith",
+  "colors": {
+    "bg": "#1a1412",
+    "sidebar": "#15100e",
+    "panel": "#221a17",
+    "raised": "#2b221e",
+    "line": "#2e2420",
+    "lineStrong": "#40332d",
+    "text": "#f3e8e1",
+    "muted": "#c9b6aa",
+    "faint": "#9c887c",
+    "accent": "#ff7a45",
+    "accentText": "#ffa47e",
+    "accentFill": "#c4501f",
+    "accentFillHover": "#a83c12",
+    "onAccent": "#ffffff",
+    "ok": "#8fd17a",
+    "warn": "#f5c046",
+    "err": "#ff7f86",
+    "info": "#8ccbe0",
+    "frame": "#0f0b0a",
+    "userBubble": "#3a2820"
+  },
+  "style": {
+    "radius": "large",
+    "depth": "deep",
+    "density": "comfortable",
+    "chatTextSize": 15,
+    "frameGradient": true
+  }
+}

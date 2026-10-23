@@ -1,0 +1,8 @@
+{
+  "name": "Ember",
+  "author": "cachewraith",
+  "version": "1.0.0",
+  "minAppVersion": "1.15.0",
+  "description": "Warm charcoal with an ember-orange accent, round corners and deep shadows. The example theme of the Wraithgrid theme template.",
+  "modes": ["dark"]
+}
